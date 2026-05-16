@@ -26381,5 +26381,12 @@
     "author": "Hamish",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Async research workflow for Obsidian notes.",
     "repo": "slaymish/async-researcher"
+  },
+  {
+    "id": "easynote",
+    "name": "Easy Note",
+    "author": "welcsy",
+    "description": "A simple drawing canvas in the Obsidian.",
+    "repo": "welcsy/obsidian-easynote"
   }
 ]
